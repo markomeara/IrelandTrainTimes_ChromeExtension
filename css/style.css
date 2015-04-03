@@ -1,0 +1,67 @@
+
+.table_header{
+	color: #4c882f;
+	background: #fff;
+	font-weight: bold;
+	white-space: nowrap;
+
+}
+
+.reminder_box{
+	width: 23px;
+}
+
+.body_size{
+	width: 650px;
+	min-height:100px;
+}
+
+#remindercleared{
+	color: #4c882f;
+	background: #fff !important;
+}
+
+tr{
+	border-spacing: 2px;
+	border-color: gray;
+}
+
+#selectionerror{
+	color: red;
+	font-style: italic;
+}
+
+h3{
+	padding: 5px;
+	background: #4c882f;
+	margin-bottom: 0;
+	color: #FFF;
+	font-size: 1.0em;
+	line-height: 1.0em;
+}
+
+table, th, tr {
+	 border-spacing: 8px;
+	 text-align: center;
+}
+
+h2{
+	padding: 5px;
+	background: #FBDB01;
+	margin-bottom: 0;
+	color: #000;
+	font-size: 1.0em;
+	line-height: 1.0em;
+	text-align: center;
+}
+
+label{
+
+	color: #4c882f;
+	font-weight: bold;
+
+}
+
+#loadingimg{
+	display: none;
+}
